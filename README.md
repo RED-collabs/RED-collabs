@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there 👋 I'm Abhinav<br><br>💻 BCA student from Kerala, India  <br>🔐 In Cybersecurity, Networking, and Automation field  <br>🐍 Currently working with Python and Bash <br><br>### 🔧 Skills & Tools<br>- Python<br>-HTML <br>-C Programming<br>- Bash (Learning)<br>- Networking Basics (IP, DNS, HTTP/HTTPS, Ports)<br>- Git & GitHub<br><br>### 🚀 Projects<br>-Doing projects in C and Python and bash <br><br>### 📚 Currently Learning<br>- Pentesting & Networks <br>- Cybersecurity concepts<br>- Automation and scripting<br><br>### ⚡ Fun Fact<br>I enjoy building small scripts and experimenting with automation.
+## Hi there 👋 I'm Abhinav<br><br>💻 BCA student from Kerala, India  <br>🔐 In Cybersecurity, Networking, and Automation field  <br>🐍 Currently working with Python and Bash <br><br>### 🔧 Skills & Tools<br>- Python<br>-HTML <br>-C Programming<br>- Bash <br>- Networking Basics (IP, DNS, HTTP/HTTPS, Ports)<br>- Git & GitHub<br><br>### 🚀 Projects<br>-Doing projects in C and Python and bash <br><br>### 📚 Currently Learning<br>- Pentesting & Networks <br>- Cybersecurity concepts<br>- Automation and scripting<br><br>### ⚡ Fun Fact<br>I enjoy building small scripts and experimenting with automation.
 
 
 ## 🌐 Socials:
