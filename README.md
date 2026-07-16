@@ -1,5 +1,6 @@
 # 💫 About Me:
-## Hi there 👋 I'm Abhinav<br><br>💻 BCA student from Kerala, India  <br>🔐 In Cybersecurity, Networking, and Automation field  <br>🐍 Currently working with Python and Bash <br><br>### 🔧 Skills & Tools<br>- Python<br>-HTML <br>-C Programming<br>- Bash <br>- Networking Basics <br>- Git & GitHub<br><br>### 🚀 Projects<br>-Doing projects in C and Python and bash <br><br>### 📚 Currently Learning<br>- Pentesting & Networks <br>- Cybersecurity concepts<br>- Automation and scripting<br><br>### ⚡ Fun Fact<br>I enjoy building small scripts and experimenting with automation.
+![My Pixel Animation]([animation.gif[](https://github.com/RED-collabs/animations/blob/main/parrot.gif))
+## Hi there 👋 I'm Abh](https://github.com/RED-collabs/animations/blob/main/parrot.gif)inav<br><br>💻 BCA student from Kerala, India  <br>🔐 In Cybersecurity, Networking, and Automation field  <br>🐍 Currently working with Python and Bash <br><br>### 🔧 Skills & Tools<br>- Python<br>-HTML <br>-C Programming<br>- Bash <br>- Networking Basics <br>- Git & GitHub<br><br>### 🚀 Projects<br>-Doing projects in C and Python and bash <br><br>### 📚 Currently Learning<br>- Pentesting & Networks <br>- Cybersecurity concepts<br>- Automation and scripting<br><br>### ⚡ Fun Fact<br>I enjoy building small scripts and experimenting with automation.
 
 
 ## 🌐 Socials:
